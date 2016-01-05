@@ -3,6 +3,10 @@ dashing-health
 
 dashing-health is a widget for Shopify's dashing framework to display system warning and critical counts.
 
+It's designed with a reduced widget size in mind. The screenshot example uses a widget height
+of half the default (180 rather than 360). If you are not looking for a compressed view then
+the dashing-nagios widget might suit you (with or without nagios).
+
 This repo contains the Health widget and a sample dashboard using the widget for multiple environments.
 
 Configuration
